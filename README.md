@@ -1,66 +1,16 @@
-<head>
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+### Hi there 👋, I am Kushagra Saxena
+#### Python Developer Intern at HCL Technologies and a Full-time Bachelors student.
+![Python Developer Intern at HCL Technologies and a Full-time Bachelors student.](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
 
-<!-- Add font awesome icons -->
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-<style>
-/* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
+I've made many projects in Machine Learning domain.
+Also, I'm trying my hands on to Backend Development using Django Framework of Python.
 
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
+Skills: C++ / Python / Django / Machine Learning / SQL / Rust Language
 
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-</style>
-</head>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
-</div>
+- 🔭 I’m currently working on E-commerce Website.. 
+- 🌱 I’m currently learning Django 
+- 👯 I’m looking to collaborate on some amazing projects involving Django. 
+- 😄 Pronouns: He/Him 
 
 
-<div id="badges">
-<i class="fa fa-cloud"></i>
-<i class="fa fa-heart"></i>
-<i class="fa fa-car"></i>
-<i class="fa fa-file"></i>
-<i class="fa fa-bars"></i>
-</div>
-
-### Hi there 👋
-
-<!--
-**Kushagra0426/kushagra0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Backend.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate on projects in Django.
-- 💬 Ask me about C++, Python, Django, Machine Learning, Competitive Programming.
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kushagra0426)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kushagra-saxena-7602b3204//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/devnsaxena/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/kushagra_coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/devkushagra2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/kushagra_coder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/devkushagra2002/practice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/kushagra_coder)  
