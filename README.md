@@ -73,7 +73,7 @@
 
 ---
 
-## 📈 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kushagra0426&theme=radical&column=7" /> </p>
 
